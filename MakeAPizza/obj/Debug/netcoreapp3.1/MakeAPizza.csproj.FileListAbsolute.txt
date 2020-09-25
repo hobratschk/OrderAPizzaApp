@@ -1,0 +1,13 @@
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\bin\Debug\netcoreapp3.1\MakeAPizza.exe
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\bin\Debug\netcoreapp3.1\MakeAPizza.deps.json
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\bin\Debug\netcoreapp3.1\MakeAPizza.runtimeconfig.json
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\bin\Debug\netcoreapp3.1\MakeAPizza.runtimeconfig.dev.json
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\bin\Debug\netcoreapp3.1\MakeAPizza.dll
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\bin\Debug\netcoreapp3.1\MakeAPizza.pdb
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.AssemblyInfoInputs.cache
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.AssemblyInfo.cs
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.dll
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.pdb
+C:\Users\Blake\source\repos\MakeAPizza\MakeAPizza\obj\Debug\netcoreapp3.1\MakeAPizza.genruntimeconfig.cache
